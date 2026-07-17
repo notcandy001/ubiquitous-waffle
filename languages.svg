@@ -134,16 +134,16 @@ div.ellipsis {
 <span class="progress">
 <span style="
   background-color: #44a51c; 
-  width: 82.968%;
+  width: 82.950%;
 " class="progress-item"></span><span style="
   background-color: #3572A5; 
-  width: 2.696%;
+  width: 2.695%;
 " class="progress-item"></span><span style="
   background-color: #f1e05a; 
   width: 2.569%;
 " class="progress-item"></span><span style="
   background-color: #e34c26; 
-  width: 2.290%;
+  width: 2.289%;
 " class="progress-item"></span><span style="
   background-color: #c6538c; 
   width: 1.778%;
@@ -155,13 +155,13 @@ div.ellipsis {
   width: 1.080%;
 " class="progress-item"></span><span style="
   background-color: #dea584; 
-  width: 1.033%;
+  width: 1.032%;
 " class="progress-item"></span><span style="
   background-color: #555555; 
   width: 0.966%;
 " class="progress-item"></span><span style="
   background-color: #f34b7d; 
-  width: 0.769%;
+  width: 0.770%;
 " class="progress-item"></span><span style="
   background-color: #ec915c; 
   width: 0.582%;
@@ -176,10 +176,10 @@ div.ellipsis {
   width: 0.328%;
 " class="progress-item"></span><span style="
   background-color: #7e7eff; 
-  width: 0.103%;
+  width: 0.108%;
 " class="progress-item"></span><span style="
   background-color: #DA3434; 
-  width: 0.016%;
+  width: 0.032%;
 " class="progress-item"></span>
 </span>
 </div>
@@ -200,7 +200,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">QML</span>
-  <span class="percent">82.97%</span>
+  <span class="percent">82.95%</span>
 </li>
 <li style="animation-delay: 300ms;">
   <svg 
@@ -424,7 +424,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Nix</span>
-  <span class="percent">0.10%</span>
+  <span class="percent">0.11%</span>
 </li>
 <li style="animation-delay: 2400ms;">
   <svg 
@@ -440,7 +440,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">CMake</span>
-  <span class="percent">0.02%</span>
+  <span class="percent">0.03%</span>
 </li>
 
 
